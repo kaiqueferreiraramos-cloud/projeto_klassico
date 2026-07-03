@@ -42,3 +42,9 @@ body{
     gap: 10px;
     border: 1px solid rgb(74, 15, 3);
 }
+
+.page img{
+    width: 70%;
+    object-fit: cover;
+    margin: auto;
+}
