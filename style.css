@@ -14,5 +14,27 @@ body{
     width: 100vw;
     overflow: hidden;
     background: rgba(128, 5, 5, 0.975);
-    background: rgba(179, 7, 7, 0.975);;
+}
+.flipbook{
+    width: 1000px;
+    height: 600px;
+}
+.flipbook  .paginas{
+    background: rgb(138, 21, 21);
+    color: black;
+    font-weight: bold;
+    border: none;
+}
+
+.flipbook  .paginas small{
+    font-style: italic;
+    font-weight: lighter;
+    opacity: 0.8;
+    font-size: 15px;
+}
+
+.flipbook .page{
+    background: whitesmoke;
+    display: flex;
+    flex-direction: column;
 }
