@@ -19,14 +19,14 @@ body{
     width: 1000px;
     height: 600px;
 }
-.flipbook  .paginas{
+.flipbook .paginas{
     background: rgb(133, 23, 23);
     color: black;
     font-weight: bold;
     border: none;
 }
 
-.flipbook  .paginas small{
+.flipbook .paginas small{
     font-style: italic;
     font-weight: lighter;
     opacity: 0.8;
