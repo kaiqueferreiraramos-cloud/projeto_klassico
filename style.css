@@ -17,10 +17,10 @@ body{
 }
 .flipbook{
     width: 1000px;
-    height: 600px;
+    height: 1200px;
 }
 .flipbook  .paginas{
-    background: rgb(138, 21, 21);
+    background: rgb(133, 23, 23);
     color: black;
     font-weight: bold;
     border: none;
